@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #Large Files
-Data/moonboard_problems_cleaned
+Data/moonboard_problems_cleaned.csv
